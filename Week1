@@ -1,0 +1,5 @@
+what is thw differences between float ,double and decimal?
+ size           digits            usage
+4 bytes        7 digits       graphics,games
+8 bytes        15-16 digits   calculations
+16 bytes       28-29 digits   finantial,banking and tax calculations
